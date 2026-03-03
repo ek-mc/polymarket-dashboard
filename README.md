@@ -71,3 +71,12 @@ FORCE_COLOR=1 watch -c -n 10 polymarket-dashboard --top 20
 - `--fetch` = how many events fetched before ranking/filtering
 - `--min-24h-vol` accepts suffixes like `100k`, `1m`
 - Category mode uses Polymarket tag filtering (`--tag`)
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md).
+
