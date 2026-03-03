@@ -80,3 +80,7 @@ MIT. See [LICENSE](LICENSE).
 
 See [CHANGELOG.md](CHANGELOG.md).
 
+## Support
+
+For issues, use [GitHub Issues](https://github.com/ek-mc/polymarket-dashboard/issues).
+
