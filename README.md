@@ -84,3 +84,8 @@ See [CHANGELOG.md](CHANGELOG.md).
 
 For issues, use [GitHub Issues](https://github.com/ek-mc/polymarket-dashboard/issues).
 
+## Automation
+
+This repository uses GitHub Actions workflows:
+- `ci.yml`
+
